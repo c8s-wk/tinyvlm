@@ -1,4 +1,5 @@
 # tinyvlm
+Dual-encoder, shared embedding space, based on CLIP
 
 ## Set up environment + Install dependencies
 ### Create venv (optional)
